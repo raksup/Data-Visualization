@@ -1,2 +1,2 @@
-# titanic
-Titanic Dataset using Jupyter Notebook
+# data-visualization
+Data Visualization using Jupyter Notebook
